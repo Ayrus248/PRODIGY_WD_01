@@ -55,7 +55,7 @@ nav {
 }
 
 #content {
-    padding-top: 70px; /* To avoid content hiding behind the fixed nav */
+    padding-top: 70px; 
 }
 
 section {
